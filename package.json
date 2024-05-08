@@ -1,0 +1,25 @@
+{
+  "name": "number_guessing_game_-node_project_03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.20",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.6.2",
+    "undici-types": "^5.26.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
